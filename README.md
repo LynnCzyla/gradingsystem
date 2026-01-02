@@ -15,12 +15,12 @@ This project is a **grading system** created using **Visual Basic** and a databa
 
 ## Team Members
 
-- 
-- 
-- 
-- 
-- 
-- (https://github.com/LynnCzyla) 
+- Cyrene Z. Angeles ()
+- Jekko F. Asong ()
+- Angel R. Villanueva ()
+- Jon Vincent M. Andrada ()
+- Micha Jean C. Angulo ()
+- Lynn Czyla M. Alpuerto (https://github.com/LynnCzyla) 
 
 ---
 
